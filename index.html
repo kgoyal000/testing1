@@ -24,7 +24,12 @@
          @media print {
          .print_off {
          display: none;
-         }
+         }    html, body {
+        border: 1px solid white;
+        height: 99%;
+        page-break-after: avoid;
+        page-break-before: avoid;
+     }
 		 *{
 		background: white !important;
 		 }
