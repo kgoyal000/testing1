@@ -1,0 +1,19 @@
+  .nothing12{
+  	    display: block;
+    font-family: "Futura LT Bold","Futura",-apple-system,BlinkMacSystemFont,"Roboto",sans-serif;
+    font-weight: 700;
+    font-size: 2rem;
+    color: var(--light-color);
+    text-align: center;
+    line-height: 1.5;
+    text-decoration: none;
+    padding: 1rem 3rem;
+    background-size: 150% auto;
+    border-radius: 3rem;
+    text-shadow: 0 1px 10px rgba(0,0,0,.1);
+    box-shadow: 1px 1px 1px rgba(0,0,0,.1), 0 2px 1px rgba(0,0,0,.15);
+    cursor: pointer;
+    margin-bottom: 2rem !important;
+    margin-top: 1rem !important;
+      background:#f98848 !important
+  }
